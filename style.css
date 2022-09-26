@@ -52,6 +52,9 @@ body{
     text-transform: uppercase;
     font-weight: 200;
 }
+a{
+    text-decoration: none;
+}
 .profiles .dev{
     margin-left: 0.5em;
     font-size: 21px;
